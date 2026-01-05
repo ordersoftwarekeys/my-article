@@ -139,9 +139,9 @@ Saving recovered files to the same drive can overwrite deleted sectors and cause
 
 To use Stellar safely:
 
-- ✔ recover files to a different disk  
-- ✔ avoid working on failing drives  
-- ✔ stop using the affected device immediately  
+-  recover files to a different disk  
+-  avoid working on failing drives  
+-  stop using the affected device immediately  
 
 This is one of the main reasons users search is Stellar Data Recovery safe  because safety depends as much on usage habits as the software itself.
 
